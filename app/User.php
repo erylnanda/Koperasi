@@ -44,7 +44,7 @@ class User extends Authenticatable
             $no = '0'. $no;
         }
 
-        return $this->attributes['no_anggota'] = 'BMTIM-' . $tgl . '-' . $no;
+        return $this->attributes['no_anggota'] = 'KoperasiIM-' . $tgl . '-' . $no;
     }
 
     public function scopeSearch($query, $q)

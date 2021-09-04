@@ -9,7 +9,7 @@
 <body onload="window.print()">
     <center>
         <h2>Laporan Simpanan</h2>
-        BMT
+        Koperasi
         <p>Periode {{ $periode }} </p>
     </center>
     <br>
