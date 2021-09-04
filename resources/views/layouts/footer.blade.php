@@ -17,6 +17,6 @@
         </li> --}}
     </ul>
     <span class="copyright ml-auto my-auto mr-2">Copyright © 2018
-        <a href="#" rel="nofollow">Achmad Eryl</a>
+        <a href="#" rel="nofollow">Koperasi</a>
     </span>
 </footer>
